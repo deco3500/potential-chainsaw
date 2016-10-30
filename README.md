@@ -34,10 +34,15 @@ Finally we did some user testing, and iterated the site accordingly.
 
 ## Promotional page
 
+Final version promo page, this would be the first page a non-logged in user would see.
+http://registrar-deer-58253.bitballoon.com/
+
+Early promotional material, low fidelity but minimal and eye-catching. Could be good for advertising link.
 https://s4291106-union.uqcloud.net/Prototype3/promotional.html
 
 ## Main site
 
+Our final interactive prototype
 https://s4291106-union.uqcloud.net/Prototype3/index.php
 
 ### How to use:
@@ -69,7 +74,8 @@ Worked on the back end of the site, allowing articles and users to be imported t
 
 ### Clancy O'Reilly - 43709672 - IT, Research and coordination 
 
-Researched the topics explored and wrote intorductory paragraphs for the promotional page.
+Researched topics explored including matrix types and application, comment and fourm methods and rating systems.
+Wrote intorductory text for early promotional page.
 
 ### Nathan Squire - 43930421 - IT, Design and UI/UX
 
